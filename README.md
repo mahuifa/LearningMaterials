@@ -1,4 +1,4 @@
-github地址：https://github.com/mahuifa/SkyDriveData
+github地址：https://github.com/mahuifa/LearningMaterials
 
 ## **本仓库收录我收集的一些资料，用于分享学习。包括一些下载速度比较慢的、难以查找的、需要收费的、好玩有意思的等**
 
